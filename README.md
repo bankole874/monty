@@ -1,7 +1,7 @@
 
-# 🦾 0x19. C - Stacks, Queues - LIFO, FIFO\
+# 🦾 0x19. C - Stacks, Queues - LIFO, FIFO
 
-- [What is a Doubly Linked List](https://intranet.alxswe.com/rltoken/C5_IRM981SVn8oA8RP3gag)
+**Monty 0.98** is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
 # Data Structures
 
