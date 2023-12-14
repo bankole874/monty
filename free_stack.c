@@ -1,4 +1,3 @@
-free_stack.c
 #include "monty.h"
 /**
 * free_stack - frees a doubly linked list
