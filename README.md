@@ -57,3 +57,9 @@ typedef struct instruction_s
 **VM(s):** Ubuntu 20.04
 
 **Client:** C, Algorithm, Data Structure.
+
+## Authors
+
+- [Hammed Bankole](https://www.github.com/bankole874)
+- [Mariam Sanni](https://github.com/mayrhiarm)
+
